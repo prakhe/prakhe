@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pragyan Rakhe
+- 👀 I’m interested in Finance and Programming
+- 🌱 I’m currently learning Java and Python
+- 💞️ I’m looking to collaborate on my personal Java projects
